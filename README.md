@@ -124,4 +124,7 @@ Este projeto demonstra a aplicação prática de conceitos introdutórios de an�
 Diogo Zoboli
 
 zobolidiogo@gmail.com
+
 Linkedin: [linkedin.com/in/zobolidiogo](https://www.linkedin.com/in/zobolidiogo)
+
+Github: [github.com/zobolidiogo](https://github.com/zobolidiogo)
